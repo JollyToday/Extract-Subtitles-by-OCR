@@ -29,20 +29,25 @@ Video subtitle extraction is the process of converting the subtitles in a video 
 
 1. **Upload your videos:** Start by uploading the videos you want to extract subtitles from. GhostCut supports a variety of video formats, so you can be sure that your files will be compatible.
     
-    ![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d644473-8010-4acf-b002-e774e25d40d2/cba78b04-ecce-4552-968f-91dd5f9c04e4/Untitled.png)
+![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/49149c58-e77f-44e1-a1a6-7f591b642390)
     
+![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/7d43567a-9b8f-4cfb-925f-17377f6ad2b5)
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d644473-8010-4acf-b002-e774e25d40d2/9acd2823-8f67-4fa2-a84b-6c67c0d4ecd7/e3db4199-2951-4909-afbe-88c4bffc05be.png)
 
-1. **Select the subtitle area:** Once your videos have been uploaded, you will need to select the area of the video frame where the subtitles are displayed. GhostCut's advanced OCR technology will automatically recognize the text in the selected area.
+2. **Select the subtitle area:** Once your videos have been uploaded, you will need to select the area of the video frame where the subtitles are displayed. GhostCut's advanced OCR technology will automatically recognize the text in the selected area.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d644473-8010-4acf-b002-e774e25d40d2/ebdaf80e-30ac-42b1-9fb4-4257bc1db35a/Untitled.png)
+![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/8442c296-2cfe-44b2-8d7e-02119cdceff6)
 
-1. **Wait for the processing results:** GhostCut will then process your videos and extract the subtitles. This process may take a few minutes depending on the length of your videos.
 
-![Untitled](https://prod-files-secure.s3.us-west-2.amazonaws.com/9d644473-8010-4acf-b002-e774e25d40d2/c7b32844-e876-48fa-b1d4-d6bdf659207d/Untitled.png)
+3. **Wait for the processing results:** GhostCut will then process your videos and extract the subtitles. This process may take a few minutes depending on the length of your videos.
 
-1. **Download the results:** Once the processing is complete, you can download the original video subtitles and the translated subtitles in various formats.
+![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/102fee53-edd4-4259-a0a1-4a9eb6a3bc1d)
+
+We use LLMs to auto proofread and correct the text output by OCR. LLMs can identify and correct inaccurate words or sentences based on context, thereby boosting the accuracy of the translated text. For instance, they can detect colloquialisms and transform them into more formal written language, or identify and remove redundant or unnecessary words.
+![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/272d6c45-1638-4114-a2dd-ef79e67d2828)
+
+
+4. **Download the results:** Once the processing is complete, you can download the original video subtitles and the translated subtitles in various formats.
 
 # **Extract Subtitles** Tips
 
