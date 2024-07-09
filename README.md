@@ -41,15 +41,15 @@ Video subtitle extraction is the process of converting the subtitles in a video 
 
 3. **Wait for the processing results:** GhostCut will then process your videos and extract the subtitles. This process may take a few minutes depending on the length of your videos.
 
+4. **Download the SRT:** Once the processing is complete, you can download the original video subtitles and the translated subtitles in various formats.
 ![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/102fee53-edd4-4259-a0a1-4a9eb6a3bc1d)
 
+## Automatically calibrate OCR-extracted text using **Gemini**
 Although OCR technology is developing rapidly, there are interferences such as scene and screen clarity, etc. GhostCut has used Google Gemini to further improve the recognition ability of OCR in this subtitle extraction service.
 After testing, Gemini can accurately proofread and correct the text recognized by OCR, it can recognize some wrong words or sentences and correct them according to the context to improve the accuracy of the text. Statistically, it can correct 95% of OCR text errors. For example, some colloquial expressions can be recognized and converted into more formal written language, or some repetitive or unnecessary words can be recognized and deleted.
 The following is the result of calibration with the big model, which has been applied to our GhostCut, and is very effective in improving the accuracy of translation.
 ![image](https://github.com/JollyToday/Extract-Subtitles-by-OCR/assets/128401459/272d6c45-1638-4114-a2dd-ef79e67d2828)
 
-
-4. **Download the SRT:** Once the processing is complete, you can download the original video subtitles and the translated subtitles in various formats.
 
 ## **Extract Subtitles** Tips
 
