@@ -31,7 +31,7 @@ Video subtitle extraction is the process of converting the subtitles in a video 
 
 **Easily extract and translate video subtitles in batches with GhostCut.**
 
-[GhostCut Subtitles Extraction](https://jollytoday.com/subtitle_extraction/submit/) is a powerful tool that allows you to quickly and easily extract and translate video subtitles. With just a few simple steps, you can have your subtitles translated into multiple languages, making your videos more accessible to a wider audience.
+[GhostCut Subtitles Extraction](https://weydub.com/subtitle-generator/) is a powerful tool that allows you to quickly and easily extract and translate video subtitles. With just a few simple steps, you can have your subtitles translated into multiple languages, making your videos more accessible to a wider audience.
 
 **Here's how to use GhostCut to extract and translate video subtitles:**
 
