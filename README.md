@@ -1,4 +1,6 @@
-> **国内用户请使用[鬼手剪辑官网](https://cn.jollytoday.com/subtitle-generator/)。** 本仓库是产品说明与历史项目名，不是可运行的开源算法。API 与 Skill：https://cn.jollytoday.com/api/# Extract-Subtitles-by-OCR(multi language support)
+> **国内用户请使用[鬼手剪辑官网](https://cn.jollytoday.com/subtitle-generator/)。** 本仓库是产品说明与历史项目名，不是可运行的开源算法。API 与 Skill：https://cn.jollytoday.com/api/
+
+# Extract-Subtitles-by-OCR(multi language support)
 ### Use OCR technology to extract video hard subtitles, automatically merge multi-line subtitles, add large model auto-calibration. Ultra-high accuracy with no omissions.
 ----
 
